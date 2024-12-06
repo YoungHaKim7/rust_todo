@@ -8,3 +8,7 @@
 - 크레이트
   - https://github.com/linebender/xilem
 
+<hr />
+
+# 옛날 druid에서 더 업그레이드 해야함.. 갈길이 멀다..
+- https://github.com/YoungHaKim7/druid_todolist
